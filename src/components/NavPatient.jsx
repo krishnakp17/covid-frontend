@@ -19,7 +19,7 @@ const NavPatient = () => {
           <Link className="nav-link" to="/view">View patient</Link>
         </li>
         <li className="nav-item">
-          <Link className="nav-link" to="/view">Search patient</Link>
+          <Link className="nav-link" to="/search">Search patient</Link>
         </li>
        
       </ul>
